@@ -34,10 +34,10 @@ With this power-up, you can shoot three projectiles at once instead of just one 
 ## Future Update Ideas
 My ideas for future updates include:
 
--Scoreboard: Track your high scores and compete with friends!
+- Scoreboard: Track your high scores and compete with friends!
 
--Player Lives Mechanic: Instead of an instant game over upon being hit by an enemy projectile, players will have multiple lives to keep the action going.
+- Player Lives Mechanic: Instead of an instant game over upon being hit by an enemy projectile, players will have multiple lives to keep the action going.
 
--Additional Power-Ups: Introduce at least three new power-ups to diversify gameplay and strategies.
+- Additional Power-Ups: Introduce at least three new power-ups to diversify gameplay and strategies.
 
--Ramping Difficulty: As your score increases, the game will become progressively more challenging, keeping you on your toes!
+- Ramping Difficulty: As your score increases, the game will become progressively more challenging, keeping you on your toes!
