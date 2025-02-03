@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow: hidden; /* Prevents scrollbars */
+  margin: 0px;
+  background-image: url("../assets/pictures/background.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+canvas {
+  display: block; /* Removes any inline element spacing */
+}
