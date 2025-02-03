@@ -21,14 +21,14 @@ Keep an eye out for power-ups that occasionally spawn during gameplay! These spe
 
 ![Screenshot_2025-01-27_111333-removebg-preview](https://github.com/user-attachments/assets/7e7ea55b-27c3-4feb-9eac-ee69f8dd45d1)
 
-This power-up increases your shot fire rate for a default time of five seconds
+This power-up increases your shot fire rate for a default time of five seconds by default
 
 
 ### Broad Shot Buff
 
 ![image_2025-01-27_115528126-removebg-preview](https://github.com/user-attachments/assets/a90ef1be-07ad-42cb-b9c8-00f83d2c08ad)
 
-With this power-up, you can shoot three projectiles at once instead of just one for five seconds!
+With this power-up, you can shoot three projectiles at once instead of just one for five seconds by default
 
 
 ## Future Update Ideas
