@@ -1,5 +1,5 @@
 # Space Invaders: A Retro Gaming Experience
-A work-in-progress (WIP) project that aims to create the classic Space Invaders video game using HTML canvas and JavaScript! This game is designed to be highly customizable, allowing you to tweak nearly every aspect to suit your preferences. To jump into the action, simply fork the repository and run the index.html file.
+A work-in-progress (WIP) project that aims to create the classic Space Invaders video game using HTML canvas and JavaScript! This game is designed to be highly customizable, allowing you to tweak nearly every aspect to suit your preferences. To jump into the action, simply fork the repository and run the 'index.html' file.
 
 ## Player Movement
 Experience smooth and intuitive controls as you navigate your ship through the alien onslaught:
